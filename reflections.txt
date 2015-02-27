@@ -1,0 +1,6 @@
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+   We may lose some changes that we may have wanted to push to the remote
+repository. If the pull happened automatically before we 'push'ed to the remote
+repo, our changes may be lost.
+
